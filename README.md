@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcelo Flores, Desenvolvedor FullStacks! 
 
-<p aling="left">Atualmente sou estudante de Analise e desenvolvimento de sistemas na Estácio de Sá, me interesso tanto por front-end quanto por back-end, minhas principais linguagens são Java e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender utilizar meu conhecimento para criar soluções inovadora!</p>
+<p aling="left">Atualmente sou estudante de Analise e desenvolvimento de sistemas na Estácio de Sá, me interesso por back-end, minhas principais linguagens são Java e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender utilizar meu conhecimento para criar soluções inovadora!</p>
 
 <div style="display: inline_block"><br>
   <picture>
